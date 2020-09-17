@@ -1,0 +1,16 @@
+.btn-success{
+    background-color: #0013c0;
+    border:none;
+}
+.btn-success:hover{
+    background-color: #0013c0!important;
+}
+.pet{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+#petSection{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
